@@ -1,6 +1,7 @@
 {
 	"name": "Agate",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.0.0",
-	"author": "solmi"
+	"author": "solmi, maintained by RobertIsho",
+	"authorUrl": "https://github.com/RobertIsho/Agate"
 }

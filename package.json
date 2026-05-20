@@ -1,6 +1,8 @@
 {
-    "name": "sample-obsidian-theme",
-    "version": "1.0.0",
+    "name": "agate-obsidian-theme",
+    "version": "1.0.1",
+    "description": "A maintained fork of the Agate theme for Obsidian.",
+    "private": true,
 	"scripts": {
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	}

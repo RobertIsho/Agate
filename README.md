@@ -1,5 +1,9 @@
 # Agate
 
+Maintained fork of the original Agate theme for Obsidian. Agate is a light,
+minimal theme built around translucent layers, strong typography, and adjustable
+accent/background colors.
+
 > Please turn on *Settings* > *Appearance* > *Translucent window* !
 
 <img src="./img-00.png">
@@ -26,3 +30,13 @@ body {
 - examples
 <img src="./img-03.png">
 <img src="./img-04.png">
+
+## Manual installation
+
+1. Download `manifest.json` and `theme.css` from the latest GitHub release.
+2. Create this folder in your vault: `<vault>/.obsidian/themes/Agate`.
+3. Place `manifest.json` and `theme.css` in that folder.
+4. Restart Obsidian, then choose **Agate** in **Settings > Appearance > Themes**.
+
+This is a theme, not an Obsidian plugin. It does not need files such as
+`main.js` or `styles.css`.
